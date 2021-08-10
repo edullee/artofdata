@@ -27,7 +27,7 @@ Any form of cheating will result in a **failing grade** and the student’s advi
 
 # Semester Grade
   - Homework: 40%
-  - Labs: 20%
+  - Labs: 20%`
   - Quizzes: 15%
   - Participation: 15%
   - Discussions: 10%
