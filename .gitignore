@@ -4,9 +4,11 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 *.lock
+Gemfile
 
 # These are unique to classes
 _config.yml
 README.md
 schedule.md
 index.md
+units/*
