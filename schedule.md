@@ -38,12 +38,10 @@ You may encounter some symbols. Here is what they mean: <br>
   4. [Creating Visualizations]({{site.baseurl}}/units/04/03)
   4. [Lab 4]({{site.baseurl}}/units/04/04/)
 
-## Unit 5: Probability and Distributions
+## Unit 5: Inferential Statistics
   5. [Introduction to Probability]({{site.baseurl}}/units/05/01/)
   5. [Random Variables and Probability Distributions]({{site.baseurl}}/units/05/02/)
   5. [Sampling Distributions]({{site.baseurl}}/units/05/03/)
-
-## Unit 6: Inferential Statistics
-  6. [Confidence Intervals]({{site.baseurl}}/units/06/01)
-  6. [Hypothesis Testing]({{site.baseurl}}/units/06/02/)
-  6. [Final Lab]({{site.baseurl}}/units/06/03/)
+  5. [Confidence Intervals]({{site.baseurl}}/units/05/04)
+  5. [Hypothesis Testing]({{site.baseurl}}/units/05/05/)
+  5. [Final Lab]({{site.baseurl}}/units/05/06/)
